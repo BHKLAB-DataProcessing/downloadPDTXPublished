@@ -1,2 +1,2 @@
 # downloadPDTXPublished
-Script to download published PDTX data
+Script to download published PDTX data.
